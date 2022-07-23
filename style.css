@@ -2,3 +2,23 @@
     font-family: sans-serif;
     background-color: #394f9d;
 }
+
+.nav-item {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 12px 36px;
+    font-size: 18px;
+    font-family: sans-serif;
+    box-sizing: border-box; 
+    
+  }
+  
+  .nav-item > a {
+    color: white;
+    text-decoration: none;
+  }
+
+  
+  nav{
+    text-align: center;
+  }
